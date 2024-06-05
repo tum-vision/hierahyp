@@ -1,6 +1,6 @@
 # Flattening the Parent Bias: Hierarchical Semantic Segmentation in the Poincaré Ball, CVPR 2024
 
-Welcome to the official page of the paper [Flattening the Parent Bias: Hierarchical Semantic Segmentation in the Poincaré Ball (CVPR 2024)](https://arxiv.org/pdf/2404.03778.pdf).
+Welcome to the official page of the paper [Flattening the Parent Bias: Hierarchical Semantic Segmentation in the Poincaré Ball (CVPR 2024)](https://arxiv.org/pdf/2404.03778.pdf). You can find a video presentation [here](https://www.youtube.com/watch?v=HDrPU6LCs1w&t=2s).
 
 ## Open-Source Implementation
 
