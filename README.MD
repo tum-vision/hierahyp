@@ -11,11 +11,11 @@ Hierarchy is a natural representation of semantic taxonomies, including the ones
 If you find our work useful in your research, please consider citing:
 
 ```bibtex
-@article{weber2024flattening,
+@inproceedings{weber2024flattening,
   title={Flattening the Parent Bias: Hierarchical Semantic Segmentation in the Poincar{\'e} Ball},
-  author={Weber, Simon and Z{\"o}ng{\"u}r, Bar{\i}{\c{s}} and Araslanov, Nikita and Cremers, Daniel},
-  journal={arXiv e-prints},
-  pages={arXiv--2404},
+  author={Weber, Simon and Z{\"o}ng{\"u}r, Bar and Araslanov, Nikita and Cremers, Daniel},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={28223--28232},
   year={2024}
 }
 ```
