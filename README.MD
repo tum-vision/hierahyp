@@ -53,7 +53,7 @@ The OOD datasets have to be organized as follows:
         └── ...
 ```
 
-The script to prepare the datasets is ```prepare_ood_datasets/prep_dataset.py```. You can set the following options:
+The script to prepare the datasets is ```preprocess_ood_datasets/prep_dataset.py```. You can set the following options:
 * ```--dataset```: dataset name, including 'mapillary', 'idd', 'bdd', 'wilddash', 'acdc'.
 * ```--root```: root folder for the dataset.
 * ```--savedir```: directory to save.
