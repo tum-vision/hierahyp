@@ -143,7 +143,7 @@ class DepthwiseSeparableASPPContrastHead(ASPPHead):
 
         if self.hyperbolic:
             output = output.permute((0,2,3,1))
-            out_proj = ball.projx(output)        
+            out_proj = ball.expmap0(output)        
             output = self.embedding_space.run_log_torch(out_proj,offsets,normals, 1.0)
             output = output.permute((0,3,1,2))
         else:
